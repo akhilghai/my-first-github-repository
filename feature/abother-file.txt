@@ -1,3 +1,6 @@
-Just another file created
+Just another file modified
 
 File Modified
+
+This line was added in branch-2
+another change made
